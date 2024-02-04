@@ -69,3 +69,11 @@ Propper README
 Integration tests
 Programatic verification
 Push to Github
+
+# About
+
+This is a crowd sourcing app!
+
+## Requirements
+
+## Quick start
